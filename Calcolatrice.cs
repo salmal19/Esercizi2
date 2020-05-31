@@ -3,7 +3,7 @@ using System;
 namespace Esercizi2{
 
     public class Calcolatrice{
-        //Attributi
+        //Attributes
         private int n;
 
         private int k;
